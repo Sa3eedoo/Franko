@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_height">88dp</dimen>
+    <dimen name="spacing_16dp">16dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="spacing_88dp">88dp</dimen>
+</resources>
